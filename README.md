@@ -4,3 +4,4 @@
 
 ## Road Map
 1. Variables
+1. Data Types, Type Check, Type Casting
