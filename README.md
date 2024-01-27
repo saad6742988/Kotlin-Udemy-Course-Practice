@@ -5,4 +5,4 @@
 ## Road Map
 1. Variables
 1. Data Types, Type Check, Type Casting
-2. Array, List, Set, Map  (Map and Set Remaining)
+2. Array, List, Set, Map
