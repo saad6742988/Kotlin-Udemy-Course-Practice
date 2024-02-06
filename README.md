@@ -7,3 +7,4 @@
 1. Data Types, Type Check, Type Casting
 2. Array, List, Set, Map
 3. Functions
+4. If & When Expressions
