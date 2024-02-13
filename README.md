@@ -10,3 +10,4 @@
 4. If & When Expressions
 5. Loops
 6. Property
+7. Lateinit & Lazy
