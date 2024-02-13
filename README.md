@@ -9,3 +9,4 @@
 3. Functions
 4. If & When Expressions
 5. Loops
+6. Property
