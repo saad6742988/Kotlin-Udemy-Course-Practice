@@ -13,3 +13,4 @@
 7. Lateinit & Lazy
 8. Null Safety
 9. Class
+10. Inheritance

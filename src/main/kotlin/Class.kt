@@ -36,6 +36,8 @@
 // If the class has a primary constructor, each secondary constructor needs to delegate to
 // the primary constructor.
 // It always call a primary constructor first then secondary constructor
+
+
 class Greetings{ //with no constructor
 	public var name:String="Saad"  //Property, can be private, public or protected by default it is public
 	fun sayHello(){ //Function, can be private, public or protected by default it is public
