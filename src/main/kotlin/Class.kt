@@ -11,7 +11,7 @@
 // To use classes, create objects.
 // In Kotlin, We don't use new keyword to create objects
 
-// Public, Internal,Private and protected are access modifiers in Kotlin.
+// Public, Internal,Private and protected are access/visibility modifiers in Kotlin.
 // Classes, properties, functions etc can be public, private and protected,
 // you can check Object Oriented Programming Concepts if you don't know these access modifier.
 
